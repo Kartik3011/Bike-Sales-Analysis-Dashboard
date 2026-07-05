@@ -16,5 +16,5 @@ This interactive Excel dashboard was designed to analyze 1000+ rows of raw sales
 
 ## 💾 How to View the Live File
 To interact with the formulas and slicers yourself:
-1. Click the link given below:
+1. Click the link:
 [View DashBoard](https://1drv.ms/x/c/06e63c5158a86fcb/IQD2LWHeYX77RYPl5IWGE5TYAf9TYPdpRzOjgRhROd9YlKk?e=bMGGGx)
